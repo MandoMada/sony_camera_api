@@ -75,4 +75,8 @@ pyLiveView
 - Sample application to connect to camera, and start a video recording
 - with or without a GUI LiveView screen
 
-
+android_app
+====
+- `android_app` contains a minimal Android app that can send bulb commands with
+  shot count, exposure time, and interval controls (see `android_app/`).
+- Build/install instructions are in `android_app/README.md`.
